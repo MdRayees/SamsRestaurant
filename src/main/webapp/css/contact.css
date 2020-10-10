@@ -1,0 +1,41 @@
+h1{
+	text-align: center;
+    font-size: 2.5em;
+    font-family: Baskerville,Baskerville Old Face,Hoefler Text,Garamond,Times New Roman,serif;
+}
+h2{
+	text-align:  center;
+	font-family: Baskerville,Baskerville Old Face,Hoefler Text,Garamond,Times New Roman,serif;
+}
+
+div.navbar{
+    margin-top:20px;
+  }
+  
+  .navbar {
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .navbar a {
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .navbar a:hover {
+    background-color: #F8F8F8;
+    color: black;
+    text-align: center;
+  }
+  
+  /* Add a color to the active/current link */
+  .navbar a.active {
+    background-color: rgb(78, 51, 18);
+    color: rgb(255, 255, 255);
+    text-align: center;
+  }
+

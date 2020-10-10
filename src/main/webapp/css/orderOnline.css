@@ -1,0 +1,130 @@
+h1{
+    text-align: center;
+    font-family: Baskerville,Baskerville Old Face,Hoefler Text,Garamond,Times New Roman,serif;
+    
+}
+div.navbar{
+    margin-top:20px;
+  }
+  
+  .navbar {
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .navbar a {
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .navbar a:hover {
+    background-color: #F8F8F8;
+    color: black;
+    text-align: center;
+  }
+  
+  /* Add a color to the active/current link */
+  .navbar a.active {
+    background-color: rgb(78, 51, 18);
+    color: rgb(255, 255, 255);
+    text-align: center;
+  }
+
+
+.flex-row {
+	display:flex;
+	flex-direction:row;
+}/* forming these rows */
+
+.flex-wrap {
+	flex-wrap:wrap;
+}
+
+.flex-center {
+	justify-content:center;
+} /* centering columns */
+
+.appetizers, .entrees {
+    max-width:30em
+}
+
+	
+h2 {
+    font-family: Baskerville,Baskerville Old Face,Hoefler Text,Garamond,Times New Roman,serif;
+    font-size:2.0em;
+    margin-bottom:0;
+    text-align: center;
+    width: 100%
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+} /* image formatting */
+    
+
+.container {
+	margin:0 auto;
+}
+
+.menu {
+	font-family: sans-serif;
+}
+.menu-heading {
+	font-family: Baskerville,Baskerville Old Face,Hoefler Text,Garamond,Times New Roman,serif;;	
+	font-size:calc(1.5em + 1.5vw);
+	margin-bottom:0;
+	text-align:center;
+}
+.menu-item {
+	
+    box-shadow: 5px 5px 5px #888888;	
+	line-height:1.5em;	
+	max-height:15em;
+	margin:1em;
+	padding:.5em;
+	max-width:25em;
+    text-align: center;
+}
+.menu-item-description {
+	margin:0;
+    text-align: center;
+}
+
+
+.input{
+     text-align: center;
+     
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+	text-align: center;
+	display: inline-block;
+    font-size: 1.5em;
+    padding: 10px 22px;
+    width: 30px;
+    height: 30px;
+    margin: 0 auto;
+}
+
+h5{
+	text-align:center;
+	font-size: 1.5em;	
+}
+
+a{
+	text-align:center;
+}
+
+    
+    
