@@ -2,6 +2,8 @@
 
 Software Engineering class project. 
 
-Framework used:SpringBoot 
+Framework used:
+SpringBoot 
 
-Languages: Java, HTML, CSS
+Languages: 
+Java, HTML, CSS
