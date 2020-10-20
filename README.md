@@ -1,6 +1,6 @@
 # Sams Restaurant
 
-Software Engineering class project. 
+Software Engineering class project converted from spring mvc to sprin boot. 
 
 Framework used:
 SpringBoot 
